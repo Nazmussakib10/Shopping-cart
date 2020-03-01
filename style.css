@@ -1,0 +1,61 @@
+/* custom css start */
+body{
+	background: #fff;
+}
+.cart{
+	margin: 100px 0;
+	background-color: #F6F5FA;;
+	padding: 60px 0;
+}
+
+.cart-item{
+	background-color: #fff;
+	border-radius: 10px;
+	padding: 15px 20px;
+	margin-bottom: 20px;
+}
+.center-item{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.cart-item img{
+	width: 115px;
+}
+.total-price{
+	padding-bottom:15px;
+}
+
+.cart-item .remove-icon{
+	width: 25px!important;
+}
+.btn-custom{
+	background-color: #fff;
+}
+.cart-item h5{
+    padding: 0 40px;
+}
+/* cart-item & form-control design */
+.cart-item .form-control{
+	background-color: #F6F5FA;
+	border: none;
+    width: 65px;
+    border-radius: 10px!important;
+    font-weight: 700;
+    font-size: 20px;
+}
+/* display none for both showoff and needcase */
+#showoff, #needCase{
+	display: none;
+}
+/* chekout button design */
+.check-btn{
+    float: right;
+    padding: 10px 28px;
+	font-size: 20px;
+	background-color: #2FBE70;
+	border-radius: 13px;
+}
+
+/*custom css end======== */
+
